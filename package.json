@@ -1,0 +1,28 @@
+{
+  "name": "basic-test-automation-solution-stub",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/stranger2626/basic-test-automation-solution-stub.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/stranger2626/basic-test-automation-solution-stub/issues"
+  },
+  "homepage": "https://github.com/stranger2626/basic-test-automation-solution-stub#readme",
+  "dependencies": {
+    "@types/chai": "^4.3.16",
+    "@types/mocha": "^10.0.6",
+    "chai": "^5.1.1",
+    "mocha": "^10.4.0",
+    "ts-node": "^10.9.2",
+    "typescript": "^5.4.5",
+    "winston": "^3.13.0"
+  }
+}
